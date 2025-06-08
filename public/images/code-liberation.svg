@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="100" width="300" height="200" rx="10" fill="none" stroke="white" stroke-width="2"/>
+  <text x="70" y="140" fill="white" font-family="monospace" font-size="14">&lt;code&gt;</text>
+  <text x="90" y="170" fill="white" font-family="monospace" font-size="14">freedom();</text>
+  <text x="70" y="200" fill="white" font-family="monospace" font-size="14">liberation();</text>
+  <text x="70" y="260" fill="white" font-family="monospace" font-size="14">&lt;/code&gt;</text>
+  <path d="M200 50 C 300 150, 100 250, 200 350" stroke="white" stroke-width="2" fill="none"/>
+  <circle cx="200" cy="50" r="5" fill="white"/>
+  <circle cx="200" cy="350" r="5" fill="white"/>
+</svg> 
